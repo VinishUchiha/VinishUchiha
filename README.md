@@ -9,6 +9,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VinishUchiha&theme=dark&card_width=500)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VinishUchiha&theme=dark&card_width=500)](https://git.io/streak-stats)-->
 
 ![github-stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinishuchiha&show_icons=true&theme=algolia&count_private=true&hide_title=true)
